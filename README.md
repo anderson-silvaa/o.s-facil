@@ -32,3 +32,4 @@ O objetivo da aplicação é otimizar e organizar o fluxo de ordem de serviços 
 Anderson Silva
 
 ## Deploy 
+https://o-s-facil.vercel.app/
